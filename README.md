@@ -22,10 +22,10 @@
 
 
 3.flow.pyを実行して、以下のような画像が表示されれば成功
-
+![Figure_1](https://github.com/Jikkoke/jikkoke/assets/129914983/aebce611-8d13-4811-ac28-704e73eab14a)
 
 参考資料
-https://www.profuture.co.jp/mk/column/51055
+[https://www.profuture.co.jp/mk/column/51055](https://qiita.com/sci_Haru/items/21777764ae50996abd95)
 
-https://zenn.dev/wkb/books/node-tutorial
+[https://zenn.dev/wkb/books/node-tutorial](https://plantprogramer.com/quiver_matplotlib/)
 
